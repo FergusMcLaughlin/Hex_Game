@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f7605c1edb939654fabf5e051347efd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Hex_Object: {fileID: 7491857369620799193, guid: 0ed25253a0bcf4b44bd1430491ea7192,
+      type: 3}
+  - Unit_Object: {fileID: 3025715148588008929, guid: 74439a6afe4c53c498e80b0ff29db84d,
+      type: 3}
+  - Water: {fileID: 21300000, guid: 05b9b0d177299fb41a828d6be57c335d, type: 3}
+  - Grass: {fileID: 21300000, guid: 7d9857eb90ed453468ab6a2da0e29c53, type: 3}
+  - Hills: {fileID: 21300000, guid: 3a81adcd6dd3d824ba2124885de0dd78, type: 3}
+  - Marsh: {fileID: 21300000, guid: 066c4ed578dc43048950d0ae818c4519, type: 3}
+  - Woods: {fileID: 21300000, guid: 8e44e378039f4d8478fa37f66277df78, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
